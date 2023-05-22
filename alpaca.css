@@ -2,6 +2,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
 }
 
 #top {
@@ -15,4 +17,8 @@ ul {
     flex: 1;
     gap: 2em;
     list-style-type: none;
+}
+
+header {
+    background-color: #1F2937;
 }
