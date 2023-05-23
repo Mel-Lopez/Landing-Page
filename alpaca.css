@@ -24,6 +24,6 @@ ul {
     width: 15%;
 }
 
-header {
+header,footer {
     background-color: #1F2937;
 }
