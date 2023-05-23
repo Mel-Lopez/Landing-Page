@@ -24,6 +24,8 @@ ul {
 #hero {
     height: auto;
     width: 15%;
+    display: flex;
+    flex: 2;
 }
 
 header,footer {
