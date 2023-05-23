@@ -21,6 +21,15 @@ ul {
     list-style-type: none;
 }
 
+#lowerTop {
+    display: flex;
+    justify-content: space-between;
+}
+
+#title {
+    flex-direction: column;
+}
+
 #hero {
     height: auto;
     width: 15%;
