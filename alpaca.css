@@ -28,7 +28,7 @@ ul {
 
 #lowerTop {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 #title {
@@ -38,7 +38,7 @@ ul {
 
 #hero {
     display: flex;
-    flex: 1;
+    flex: auto;
     padding: 1em;
 }
 
