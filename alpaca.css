@@ -37,10 +37,9 @@ ul {
 }
 
 #hero {
-    height: auto;
-    width: 15%;
     display: flex;
-    flex: 2;
+    flex: 1;
+    padding: 1em;
 }
 
 header,footer {
