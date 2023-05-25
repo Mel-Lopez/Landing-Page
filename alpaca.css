@@ -6,6 +6,11 @@ body {
     margin: 0;
 }
 
+#logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 #top {
     display: flex;
     flex: 1;
@@ -47,7 +52,7 @@ h1 {
     color: #F9FAF8;
 }
 
-#heroText {
+#heroText, nav {
     font-size: 18px;
     color: #E5E7EB;
 }
