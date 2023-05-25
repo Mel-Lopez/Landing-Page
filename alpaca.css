@@ -57,6 +57,10 @@ h1 {
     color: #E5E7EB;
 }
 
+button, figure {
+    border-radius: 5px;
+}
+
 button, #purchase {
     background-color: #3882F6;
     color: #F9FAF8;
