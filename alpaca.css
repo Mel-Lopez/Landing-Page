@@ -33,6 +33,7 @@ ul {
 
 #title {
     flex-direction: column;
+    padding: 1em;
 }
 
 #hero {
