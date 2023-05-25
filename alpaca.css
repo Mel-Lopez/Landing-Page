@@ -46,3 +46,8 @@ h1 {
     font-weight: bolder;
     color: #F9FAF8;
 }
+
+#heroText {
+    font-size: 18px;
+    color: #E5E7EB;
+}
