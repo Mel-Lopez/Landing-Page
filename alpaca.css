@@ -76,8 +76,7 @@ h3 {
 #products{
     display: flex;
     flex: 1;
-    justify-content: center;
-    
+    justify-content: center; 
 }
 
 .item {
@@ -95,4 +94,5 @@ blockquote {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
+    align-self: center;
 }
