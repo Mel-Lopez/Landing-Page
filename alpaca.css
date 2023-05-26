@@ -66,6 +66,12 @@ button, #purchase {
     color: #F9FAF8;
 }
 
+h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 #products{
     display: flex;
     flex: 1;
