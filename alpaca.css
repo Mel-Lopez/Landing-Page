@@ -57,7 +57,7 @@ h1 {
     color: #E5E7EB;
 }
 
-button, figure {
+button, .item {
     border-radius: 5px;
 }
 
