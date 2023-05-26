@@ -99,4 +99,6 @@ h3 {
 
 #quoter {
     font-weight: bolder;
+    align-self: flex-end;
+    padding-right: 1em;
 }
