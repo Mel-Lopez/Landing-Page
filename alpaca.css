@@ -80,7 +80,7 @@ h1 {
     color: #E5E7EB;
 }
 
-button, .item {
+button, .item, #purchase {
     border-radius: 5px;
 }
 
@@ -125,4 +125,11 @@ h3 {
 #quoter {
     font-weight: bolder;
     align-self: flex-end;
+}
+
+#purchase {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
 }
