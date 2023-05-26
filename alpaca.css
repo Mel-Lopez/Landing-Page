@@ -106,6 +106,10 @@ h3 {
     border: 3px solid #3882F6;
 }
 
+.item:hover {
+    transform: scale(0.9);
+}
+
 #review {
     display: flex;
     flex-direction: column;
@@ -127,12 +131,9 @@ h3 {
     align-self: flex-end;
 }
 
-#purchase {
-    display: flex;
-    justify-content: center;
-    width: 50%;
-    margin: auto;
-    padding: 10px;
+#order {
+    
+    
 }
 
 footer {
