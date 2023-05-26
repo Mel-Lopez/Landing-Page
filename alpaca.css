@@ -69,4 +69,5 @@ button, #purchase {
 #products{
     display: flex;
     flex: 1;
+    justify-content: center;
 }
