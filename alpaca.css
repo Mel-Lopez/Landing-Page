@@ -65,3 +65,8 @@ button, #purchase {
     background-color: #3882F6;
     color: #F9FAF8;
 }
+
+#products{
+    display: flex;
+    flex: 1;
+}
