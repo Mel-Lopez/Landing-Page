@@ -138,8 +138,9 @@ h3 {
     margin: 3em;
 }
 
-#purchase {
-    
+#purchase{
+    display: flex;
+    justify-content: space-around;
 }
 
 footer {
