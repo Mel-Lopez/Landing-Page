@@ -137,4 +137,7 @@ h3 {
 
 footer {
     color: #F9FAF8;
+    display: flex;
+    flex: auto;
+    justify-content: center;
 }
