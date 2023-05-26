@@ -88,6 +88,7 @@ h3 {
     flex-direction: column;
     flex: 1;
     background-color: #E5E7EB;
+    padding: 1em;
 }
 
 #quote {
@@ -95,10 +96,10 @@ h3 {
     font-style: oblique;
     color: #1F2937;
     align-self: center;
+    width: 50%;
 }
 
 #quoter {
     font-weight: bolder;
     align-self: flex-end;
-    padding-right: 1em;
 }
