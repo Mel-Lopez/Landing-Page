@@ -85,5 +85,10 @@ h3 {
 }
 
 #review {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
     background-color: #E5E7EB;
 }
+
+block
