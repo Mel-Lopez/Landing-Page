@@ -140,7 +140,10 @@ h3 {
 
 #purchase{
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    width: 80%;
+    height: auto;
+
 }
 
 footer {
