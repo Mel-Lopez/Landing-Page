@@ -123,10 +123,14 @@ h3 {
     font-style: oblique;
     color: #1F2937;
     width: 50%;
+    position: relative;
 }
 
 #quoter {
     font-weight: bolder;
+    font-size: 18px;
+    position: absolute;
+    right: 0;
 }
 
 #order {
