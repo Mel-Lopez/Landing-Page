@@ -29,7 +29,6 @@ a:hover {
 
 button {
     padding: 5px 10px;
-    box-shadow: 0 7px #999;
 }
 
 button:hover {
@@ -38,7 +37,6 @@ button:hover {
 
 button:active {
     background-color: #0557d6;
-    box-shadow: 0 4px #666;
     transform: translateY(2px);
   }
 
